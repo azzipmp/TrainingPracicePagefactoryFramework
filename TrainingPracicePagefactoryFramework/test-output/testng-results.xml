@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45489" started-at="2017-03-01T01:38:43Z" finished-at="2017-03-01T01:39:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45489" started-at="2017-03-01T01:38:43Z" finished-at="2017-03-01T01:39:29Z">
+      <class name="Tests.NewRegistrationTest_withdatadriven">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:Tests.NewRegistrationTest_withdatadriven@11531931]" name="openApplication" is-config="true" duration-ms="16333" started-at="2017-02-28T20:38:43Z" finished-at="2017-02-28T20:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="VerifyRegisterLink()[pri:0, instance:Tests.NewRegistrationTest_withdatadriven@11531931]" name="VerifyRegisterLink" duration-ms="1216" started-at="2017-02-28T20:39:00Z" finished-at="2017-02-28T20:39:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterLink -->
+        <test-method status="PASS" signature="VerifyUserRegistration()[pri:1, instance:Tests.NewRegistrationTest_withdatadriven@11531931]" name="VerifyUserRegistration" duration-ms="25851" started-at="2017-02-28T20:39:01Z" finished-at="2017-02-28T20:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserRegistration -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:Tests.NewRegistrationTest_withdatadriven@11531931]" name="closeApplication" is-config="true" duration-ms="2021" started-at="2017-02-28T20:39:27Z" finished-at="2017-02-28T20:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- Tests.NewRegistrationTest_withdatadriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
